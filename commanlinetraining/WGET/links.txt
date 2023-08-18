@@ -1,0 +1,5 @@
+https://github.com/jlstro/sse-riga-2023/blob/main/alephtraining/bank_accounts.csv
+https://github.com/jlstro/sse-riga-2023/blob/main/alephtraining/companies.csv
+https://github.com/jlstro/sse-riga-2023/blob/main/alephtraining/demo_email.eml
+https://github.com/jlstro/sse-riga-2023/blob/main/alephtraining/flyer.png
+https://github.com/jlstro/sse-riga-2023/blob/main/alephtraining/people.csv
