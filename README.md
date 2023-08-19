@@ -89,7 +89,7 @@ pip3 install csvkit
 wget --version
 wget --help
 
-wget https://github.com/jlstro/sse-riga-2023/blob/main/commanlinetraining.zip 
+wget https://github.com/jlstro/sse-riga-2023/raw/main/commanlinetraining.zip 
 
 # Navigate to ./commanlinetraining/WGET - then type:
 wget -i links.txt
