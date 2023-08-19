@@ -144,7 +144,9 @@ csvlook Chicago_Crime_2021.csv | less
 
 csvcut -c date,primary_type,location Chicago_Crime_2021.csv | less
 
+csvcut -c date,primary_type,location Chicago_Crime_2021.csv > Chicago_filtered.csv
 
+csvsort -c date Chicago_filtered.csv | less
 ```
 
 | Command | Function |
